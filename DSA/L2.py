@@ -38,7 +38,7 @@ Constraints:
 
 """
 
-# CODE BELOW :-
+# CODE HERE :-
 
 class Solution(object):
     def removeElement(self, nums, val):
