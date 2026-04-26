@@ -5,6 +5,7 @@ A word is a maximal substring consisting of non-space characters only.
 """
 
 #CODDE HERE :
+
 class Solution(object):
     def lengthOfLastWord(self, s):
         # remove trailing spaces
