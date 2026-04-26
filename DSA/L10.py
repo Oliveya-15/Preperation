@@ -4,7 +4,7 @@ Given a string s consisting of words and spaces, return the length of the last w
 A word is a maximal substring consisting of non-space characters only.
 """
 
-#CODDE HERE :
+#CODE HERE :
 
 class Solution(object):
     def lengthOfLastWord(self, s):
