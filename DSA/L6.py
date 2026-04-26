@@ -44,6 +44,7 @@ class Solution(object):
 
         return t
 
+
 """
 Example 1:
 
