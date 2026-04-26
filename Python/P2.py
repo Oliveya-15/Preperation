@@ -3,6 +3,8 @@ sequence on a single line. Suppose the following input is supplied to the progra
 
 Hints: In case of input data being supplied to the question, it should be assumed to be a console input."""
 
+# CODE HERE
+
 n = int(input("Enter the Number: "))
 f=1
 for i in range(1,n+1):
