@@ -6,7 +6,11 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 
 Return the head of the merged linked list.
 """
-#CODE
+
+
+#CODE HERE
+
+
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
         
