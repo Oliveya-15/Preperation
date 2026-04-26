@@ -8,6 +8,8 @@ The distance of a good tuple is abs(i - j) + abs(j - k) + abs(k - i), where abs(
 
 Return an integer denoting the minimum possible distance of a good tuple. If no good tuples exist, return -1.
 """
+
+
 # CODE HERE :-
 
 class Solution(object):
